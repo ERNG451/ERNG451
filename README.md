@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ERNG451
 - 👀 I’m interested in ...software development
 - 🌱 I’m currently learning ...computer science
-- 💞️ I’m looking to collaborate on ...complex software development learnig
+- 💞️ I’m looking to collaborate on ...complex software development learning
 - 📫 How to reach me ...my email @irunguerick38@gmail.com
 
 <!---
